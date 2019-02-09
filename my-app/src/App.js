@@ -128,7 +128,7 @@ class Card extends Component {
   render() {
     return (
       <div className="card m-3 flex-grow-1">
-        <div class="card-header bg-dark text-light">
+        <div className="card-header bg-dark text-light">
           Post #{this.props.id}
         </div>
         <div className="card-body">
