@@ -22,7 +22,6 @@ class App extends Component {
         return dataPromise;
       })
       .then((data) => {
-        console.log (data);
         this.setState({data: data, loading: false});
       })
       .catch((error) => {
