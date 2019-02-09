@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/igem-app/static/js/runtime~main.a4fde39a.js"
   },
   {
-    "revision": "1f23af8b8fd411afb837",
-    "url": "/igem-app/static/js/main.1f23af8b.chunk.js"
+    "revision": "c1e3477cb11b7e473188",
+    "url": "/igem-app/static/js/main.c1e3477c.chunk.js"
   },
   {
     "revision": "dbb9229fecc999d69eeb",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/igem-app/static/css/1.7ad26cbd.chunk.css"
   },
   {
-    "revision": "9b58587b6e42bc3a7c175d482e811d27",
+    "revision": "0549a4bb1a9bbc4618144750f4bc6a5f",
     "url": "/igem-app/index.html"
   }
 ];
