@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/etruong/igem-app/precache-manifest.72cf754740c1bc38de87c7f428ac11c6.js"
+  "/igem-app/precache-manifest.ce0c763c0ca999f434d8dfe9c6aa0d1a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/etruong/igem-app/index.html", {
+workbox.routing.registerNavigationRoute("/igem-app/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

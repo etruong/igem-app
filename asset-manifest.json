@@ -1,13 +1,13 @@
 {
-  "main.js": "/etruong/igem-app/static/js/main.0f3a6cd1.chunk.js",
-  "main.js.map": "/etruong/igem-app/static/js/main.0f3a6cd1.chunk.js.map",
-  "static/css/1.7ad26cbd.chunk.css": "/etruong/igem-app/static/css/1.7ad26cbd.chunk.css",
-  "static/js/1.dbb9229f.chunk.js": "/etruong/igem-app/static/js/1.dbb9229f.chunk.js",
-  "static/js/1.dbb9229f.chunk.js.map": "/etruong/igem-app/static/js/1.dbb9229f.chunk.js.map",
-  "runtime~main.js": "/etruong/igem-app/static/js/runtime~main.0959e82c.js",
-  "runtime~main.js.map": "/etruong/igem-app/static/js/runtime~main.0959e82c.js.map",
-  "static/css/1.7ad26cbd.chunk.css.map": "/etruong/igem-app/static/css/1.7ad26cbd.chunk.css.map",
-  "index.html": "/etruong/igem-app/index.html",
-  "precache-manifest.72cf754740c1bc38de87c7f428ac11c6.js": "/etruong/igem-app/precache-manifest.72cf754740c1bc38de87c7f428ac11c6.js",
-  "service-worker.js": "/etruong/igem-app/service-worker.js"
+  "main.js": "/igem-app/static/js/main.1f23af8b.chunk.js",
+  "main.js.map": "/igem-app/static/js/main.1f23af8b.chunk.js.map",
+  "static/css/1.7ad26cbd.chunk.css": "/igem-app/static/css/1.7ad26cbd.chunk.css",
+  "static/js/1.dbb9229f.chunk.js": "/igem-app/static/js/1.dbb9229f.chunk.js",
+  "static/js/1.dbb9229f.chunk.js.map": "/igem-app/static/js/1.dbb9229f.chunk.js.map",
+  "runtime~main.js": "/igem-app/static/js/runtime~main.a4fde39a.js",
+  "runtime~main.js.map": "/igem-app/static/js/runtime~main.a4fde39a.js.map",
+  "static/css/1.7ad26cbd.chunk.css.map": "/igem-app/static/css/1.7ad26cbd.chunk.css.map",
+  "index.html": "/igem-app/index.html",
+  "precache-manifest.ce0c763c0ca999f434d8dfe9c6aa0d1a.js": "/igem-app/precache-manifest.ce0c763c0ca999f434d8dfe9c6aa0d1a.js",
+  "service-worker.js": "/igem-app/service-worker.js"
 }
