@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://<github-username>.github.io/<project-repo>",
+  "homepage": "https://github.com/etruong/igem-app",
   "dependencies": {
     "bootstrap": "^4.2.1",
     "react": "^16.7.0",
